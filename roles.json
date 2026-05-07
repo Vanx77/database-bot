@@ -1,10 +1,8 @@
 {
-  "owner": [
-    8035224777
-  ],
+  "owner": ["8035224777"],
+  "moderator": [],
   "admin": [],
   "premium": [],
-  "tokens": [
-    "8388125970:AAEOcozyZe4Wf53yBeoU2gqYH4hR1TG1rC4"
-  ]
+  "reseller": [],
+  "ceo": []
 }
